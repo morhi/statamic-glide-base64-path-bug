@@ -1,8 +1,12 @@
 ---
-title: Home
 id: home
-template: home
 blueprint: pages
+title: Home
+template: home
+author: 48d72573-541e-438d-a60d-2272688b470f
+updated_by: 48d72573-541e-438d-a60d-2272688b470f
+updated_at: 1732637925
+image: 800_über-uns/ma-foto-von-oben_2017.jpg
 ---
 ## Welcome to your brand new Statamic site!
 
